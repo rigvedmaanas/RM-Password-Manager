@@ -1,4 +1,4 @@
-# RM-Password-Manager
+# RM Password Manager
 A CLI password manager that stores credentials in your local machine encrypted
 
 ## Usage
