@@ -16,7 +16,7 @@ A CLI password manager that stores credentials in your local machine encrypted
 - _logo.txt_ stores the splash screen logo!!!
 - _menu.txt_ stores the menu items display which you will see when you run the code.
 - _main.py_ is the main python script.
-- _requirments.txt_ shows which all packages I have used.
+- _requirments.txt_ shows which all packages that I have used.
 
 ***
 
