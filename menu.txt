@@ -1,0 +1,6 @@
+______________________________
+1. Print Credentials
+2. Add Credentials
+3. Delete Credentials
+4. Quit Vault
+______________________________
