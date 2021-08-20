@@ -9,7 +9,7 @@ A CLI password manager that stores credentials in your local machine encrypted
 - Run  `python3 main.py`  in Terminal/Command Prompt as this project uses a clear function and prints a lock in text format which may not work properly sometimes :smile: ...
 - You may see some nonsense when you print the passwords
 - Delete these passwords and add your own passwords
-- There You Go!!! 
+- There You Go!!! Don't forget to change this code into an excecutable file :smile:
 
 ***
 
