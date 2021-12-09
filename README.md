@@ -10,6 +10,12 @@ A CLI password manager that stores credentials in your local machine encrypted
 - You may see some nonsense when you print the passwords
 - Delete these passwords and add your own passwords
 - There You Go!!! Don't forget to change this code into an excecutable file :smile:
+- Please be aware that if any of your passwords are lost or stolen I am not responsible :roll_eyes:
+
+***
+
+## Bugs
+- Found a potential vulnerability in code. Not Promoted to use this Application (I may not fix this one. It's a pretty old project :zipper_mouth_face:) 
 
 ***
 
